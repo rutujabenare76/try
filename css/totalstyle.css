@@ -72,3 +72,6 @@ font-weight: 600;
 .requirment-section{
     background-color: #30336b;
 }
+.navbar-brand img{
+    padding: 2px;
+}
