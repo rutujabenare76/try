@@ -75,3 +75,50 @@ font-weight: 600;
 .navbar-brand img{
     padding: 2px;
 }
+ .client-section{
+     background-color:#dfe6e9;
+     font-weight: 500;
+ }
+ /* .rutuja{
+     background-color: #ffffff;
+ } */
+ /* end of the homepage */
+
+ /* starting of the about us */
+ .bread-crumb-section{
+     background-color:#e9ecef;
+ }
+ .shriyash.container.col-md-3{
+     width: 5px;
+ }
+
+ /* services-shearing page */
+ .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+/* contact us page */
+.address p{
+font weight: 600; 
+}
+/* adding videos */
+.sizer {
+  width: 500px;
+  height: 400px;
+  /* align-items: center; */
+  text-align: center;
+}
+
+body, html {
+  height: 100%;
+}
+
+/* trial background */
+.bg-cover {
+    background-attachment: static;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
